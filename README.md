@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramanathanbr
 - 👀 I’m interested in Azure Deployment
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
